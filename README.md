@@ -44,6 +44,8 @@ Similar to Bubble Sort, Insertion sort is also driven by a nested loop. The curr
 
 Selection Sort is unstable and non-adaptive with best, average and worst case time complexities are O(n²). However, because the algorithm completes fewer writes than others, there are edge cases on small data sets where it can prove effective.
 
+![alt text](https://github.com/gyanprakash0221/Sorting-Techniques/blob/main/Selection%20Sort/selectionsort.gif "selectionsort")
+
 **How it works**
 
 In Selection Sort, the inner loop checks each element of the array starting from index 0 and makes a note of the smallest value it has come across. Once the loop iteration ends, the smallest value is swapped with the element where the loop started and the starting point for the next inner loop iteration is incremented by one.
