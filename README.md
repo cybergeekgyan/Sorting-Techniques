@@ -4,6 +4,10 @@ Sorting data is one of the most common tasks in computer programming. A quick in
 
 ![alt text][logo]
 
+[logo]: https://github.com/gyanprakash0221/Sorting-Techniques/blob/main/sorting.gif
+
+![alt text][logo]
+
 [logo]: https://github.com/gyanprakash0221/Sorting-Techniques/blob/main/sorting%20algorithms.png "sorting"
 
 Before diving in, make sure you are familiar with Big-O notation. There are also two sorting-specific terms worth understanding, which are defined below.
