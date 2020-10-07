@@ -19,6 +19,9 @@ Before diving in, make sure you are familiar with Big-O notation. There are also
 
 Bubble sort dates back to 1956. It is not commonly used due average and worst case time complexities of O(n²). However, the method is adaptive and will exhibit an O(n) run time for lists that are largely pre-sorted.
 
+Inline-style: 
+![alt text](https://github.com/gyanprakash0221/Sorting-Techniques/blob/main/Bubble%20Sort/bubblesort.gif "bubblesort")
+
 **How it works**
 
 Bubble sort is driven by a nested loop where the largest values bubble to the top. The outer loop starts at one end of the array. Its purpose is to ensure the inner loop repeats n times where n is the number of elements in the array.
