@@ -2,6 +2,10 @@
 
 Sorting data is one of the most common tasks in computer programming. A quick internet search shows more than 40 sorting algorithms have been created by engineers. This article will focus on three of the simplest: Bubble, Insertion, and Selection. Although none of the three are commonly used due to inferior run time performance, there are edge cases where they prove superior. In addition, they serve as building blocks for the more efficient and more complex algorithms like Merge Sort, Quick Sort, and Radix Sort.
 
+![alt text][logo]
+
+[logo]: https://github.com/gyanprakash0221/Sorting-Techniques/blob/main/sorting%20algorithms.png "sorting"
+
 Before diving in, make sure you are familiar with Big-O notation. There are also two sorting-specific terms worth understanding, which are defined below.
 
 **Key Term Definitions**
