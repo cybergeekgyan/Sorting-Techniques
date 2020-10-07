@@ -7,6 +7,7 @@ Before diving in, make sure you are familiar with Big-O notation. There are also
 **Key Term Definitions**
 
 *Stability*: Stable sorting maintains the relative order of elements with equal values. For example, implementing stable sorts on a list of potential clients by company name and then geographic location would result in an alphabetical list of companies sorted by location.
+
 *Adaptability*: Sorting algorithms whose running time improves the more pre-sorted the list is.
 
 **Bubble Sort**
@@ -29,3 +30,11 @@ Insertion Sort is another stable algorithm that sports average and worst case ti
 **How it works**
 
 Similar to Bubble Sort, Insertion sort is also driven by a nested loop. The current value of the outer loop is compared to it’s preceding element through an inner loop. If the outer loop value is higher than the preceding element, the preceding element moves up one index space and the inner loop compares the outer loop value to the next preceding element. If the outer loop value is the larger value in the comparison, the outer loop value takes the index space to the right of the smaller element.
+
+**Selection Sort**
+
+Selection Sort is unstable and non-adaptive with best, average and worst case time complexities are O(n²). However, because the algorithm completes fewer writes than others, there are edge cases on small data sets where it can prove effective.
+
+**How it works**
+
+In Selection Sort, the inner loop checks each element of the array starting from index 0 and makes a note of the smallest value it has come across. Once the loop iteration ends, the smallest value is swapped with the element where the loop started and the starting point for the next inner loop iteration is incremented by one.
