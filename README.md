@@ -21,7 +21,7 @@ Bubble sort dates back to 1956. It is not commonly used due average and worst ca
 
 ![alt text][logo]
 
-[logo]: https://github.com/gyanprakash0221/Sorting-Techniques/blob/main/Bubble%20Sort/bubblesort.gif
+[logo]: https://github.com/gyanprakash0221/Sorting-Techniques/blob/main/Bubble%20Sort/bubblesort.gif "bubble"
 
 
 **How it works**
